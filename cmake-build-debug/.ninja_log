@@ -5,12 +5,12 @@
 93	278	7567462113578617	CMakeFiles/project.elf.dir/Core/Startup/startup_stm32f407zgtx.s.obj	a959e9e06186c25c
 234	548	7567462114996736	CMakeFiles/project.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	4202d39140aba826
 51	317	7567462113167635	CMakeFiles/project.elf.dir/Core/Src/stm32f4xx_it.c.obj	65df9bed03c0fec6
-562	895	7567462118266679	CMakeFiles/project.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj	86f8f54b837f2ded
 209	561	7567462114748300	CMakeFiles/project.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	34e902ba13f73505
 82	330	7567462113473574	CMakeFiles/project.elf.dir/Core/Src/system_stm32f4xx.c.obj	452fe4398e3098f1
+562	895	7567462118266679	CMakeFiles/project.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c.obj	86f8f54b837f2ded
 3	144	7567504954742857	CMakeFiles/project.elf.dir/Core/Src/usb_user.c.obj	77e6acb76775f4c8
 41	255	7567462113066649	CMakeFiles/project.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj	72238ebe17bfc218
-4	130	7567497054486325	CMakeFiles/project.elf.dir/Core/Src/main.c.obj	bbcf4a16988afdc6
+3	166	7567511627952776	CMakeFiles/project.elf.dir/Core/Src/main.c.obj	bbcf4a16988afdc6
 593	896	7567462118585812	CMakeFiles/project.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c.obj	8bd3898ee7991701
 71	244	7567462113368288	CMakeFiles/project.elf.dir/Core/Src/sysmem.c.obj	825e7ea2eda48351
 290	705	7567462115554603	CMakeFiles/project.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c.obj	3c3b737f6aa451a3
@@ -24,7 +24,7 @@
 512	781	7567462117769475	CMakeFiles/project.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	3bd7c96607986e60
 317	614	7567462115820303	CMakeFiles/project.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj	71edc39ce330b9d8
 356	707	7567462116211807	CMakeFiles/project.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	9d6229e71a4049e3
-996	1249	7567462122609015	project.elf	99ffc99e0e73462d
+166	382	7567511629597758	project.elf	8af67773884ae92e
 22	303	7567462112875584	CMakeFiles/project.elf.dir/Core/Src/i2s.c.obj	c4c38d1f3606987f
 14	222	7567462112789300	CMakeFiles/project.elf.dir/Core/Src/gpio.c.obj	19d1ad618bae7973
 3	208	7567462112689278	CMakeFiles/project.elf.dir/Core/Src/dma.c.obj	b0d6e3f9a98d6eae
@@ -38,7 +38,4 @@
 575	950	7567462118405603	CMakeFiles/project.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c.obj	c52aeb4157fd1eeb
 548	896	7567462118140066	CMakeFiles/project.elf.dir/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c.obj	82f79c5d12c6d486
 534	919	7567462118000017	CMakeFiles/project.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj	2aab251cab9258f4
-1	134	7567505247180524	build.ninja	66cef14eb7a1d82c
-2	218	7567505247437378	project.elf	8af67773884ae92e
-3	166	7567511627952776	CMakeFiles/project.elf.dir/Core/Src/main.c.obj	bbcf4a16988afdc6
-166	382	7567511629597758	project.elf	8af67773884ae92e
+1	134	7567515645212680	build.ninja	66cef14eb7a1d82c
